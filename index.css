@@ -1,0 +1,164 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.h1 {
+  padding-bottom: 5px;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 300;
+  color: #161515;
+}
+.header {
+  max-width: 1000em;
+  height: 550px;
+  display: flex;
+  padding-left: 75px;
+  padding-top: 52px;
+  padding-right: 75px;
+  padding-bottom: 30px;
+  background-color: #f8f8f8;
+}
+.header-container {
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.width1 {
+  max-width: 50%;
+}
+.position1 {
+  width: 100em;
+  text-align: center;
+}
+.watch {
+  display: flex;
+  width: 400px;
+  height: 150px;
+  font-size: 150px;
+  margin-bottom: 40px;
+}
+.watch1 {
+  display: flex;
+  padding-right: 83px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+.button {
+  display: flex;
+  background-color: #161515;
+  width: 150px;
+  padding-left: 8%;
+  padding-top: 3%;
+  height: 45px;
+}
+.a {
+  font-size: 15px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.block {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+  height: 45px;
+  font-size: 15px;
+  padding-left: 11%;
+  padding-top: 3%;
+  position: relative;
+  left: 150px;
+  bottom: 45px;
+}
+.size {
+  width: 250px;
+  height: 460px;
+}
+.main {
+  padding-top: 25px;
+}
+.p1 {
+  text-align: center;
+}
+.padding {
+  font-size: 15px;
+}
+.models {
+  text-align: center;
+  font-size: 40px;
+  line-height: 90%;
+}
+.foto {
+  position: relative;
+  margin: 0 auto;
+  width: 300px;
+  background-color: #f8f8f8;
+  height: 450px;
+  padding-top: 50px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.h2 {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.span2 {
+  text-align: center;
+  line-height: 150%;
+  font-size: 20px;
+}
+.foto1 {
+  position: relative;
+  margin: 0 auto;
+  width: 350px;
+  background-color: #f8f8f8;
+  height: 450px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.hr {
+  width: 160px;
+}
+.span3 {
+  text-align: center;
+  line-height: 150%;
+  font-size: 15px;
+}
